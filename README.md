@@ -32,7 +32,7 @@ sudo apt-get -y install git curl
 git clone https://github.com/realnex0nix/HkTools.git
 cd HkTools
 chmod +x *
-bash HkTools
+bash HkTools.sh
 ```
 
 <h3>Instalação no Termux (Android)</h3>
@@ -45,7 +45,7 @@ apt-get -y install git curl
 git clone https://github.com/realnex0nix/HkTools.git
 cd HkTools
 chmod +x *
-bash HkTools
+bash HkTools.sh
 ```
 
 ---
